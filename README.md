@@ -158,8 +158,8 @@ It's easy, just follow the [contribution guidelines](https://github.com/AJAlabs/
 
 ### License
 
-This work is licensed under the [MIT License](https://github.com/AJAlabs/bash-style-guide/blob/master/LICENSE.md)
-
+![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)
+This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US)
 
 ### Spread the Word
 
@@ -176,7 +176,6 @@ best possible guide, don't we?
 * Bash Guide for Beginners: [HTML](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) [PDF](http://www.tldp.org/LDP/Bash-Beginners-Guide/Bash-Beginners-Guide.pdf)
 * Advanced Bash-Scripting Guide: [HTML](http://www.tldp.org/LDP/abs/html/index.html) [PDF](http://www.tldp.org/LDP/abs/abs-guide.pdf)
 * Bash Reference Manual: [HTML](https://www.gnu.org/software/bash/manual/bashref.html) [PDF](https://www.gnu.org/software/bash/manual/bash.pdf)
-
 * [bash Cookbook](http://amzn.to/1nhKgbf)
 * [Classic Shell Scripting](http://amzn.to/1nhKpvm)
 * [bash Pocket Reference](http://amzn.to/1lI77eY)
